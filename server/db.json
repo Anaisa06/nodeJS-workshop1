@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@email.com",
+      "role": "admin"
+    },
+    {
+      "id": "5a84",
+      "name": "Juan",
+      "email": "juan@example.com",
+      "role": "regular"
+    },
+    {
+      "id": "70a4",
+      "name": "Ana Isabel",
+      "email": "ana@email.com",
+      "role": "regular"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "438f",
+      "roomId": "1",
+      "nombreUsuario": "Ana Isabel"
+    },
+    {
+      "id": "306a",
+      "roomId": "1",
+      "nombreUsuario": "Ana Isabel"
+    }
+  ],
+  "rooms": [
+    {
+      "id": "1",
+      "name": "Room 1",
+      "capacity": 2
+    },
+    {
+      "id": "2",
+      "name": "Room 2",
+      "capacity": 4
+    },
+    {
+      "id": "3",
+      "name": "Room 3",
+      "capacity": 6
+    }
+  ]
+}
